@@ -1,6 +1,6 @@
 # Applied Data Science with Python
 
-This repository contains the code for Applied Data Science with Python, by IBM CognitiveClass. It contains all the code files necessary to work through the book from start to finish.
+This repository contains the code for Applied Data Science with Python, by IBM CognitiveClass. 
 
 ## About the course
 This is a three-part course of the Applied Data Science with Python learning path. The course focuses on getting hands-on experience using the Python for introductory Data
