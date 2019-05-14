@@ -6,19 +6,19 @@ This repository contains the code for Applied Data Science with Python, by IBM C
 This is a three-part course of the Applied Data Science with Python learning path. The course focuses on getting hands-on experience using the Python for introductory Data
 Science. The repository constitutes the following three courses in their respective directories.
 
-> - **Python for Data Science**
-> - **Data Analysis with Python**
-> - **Data Visualization with Python**
+- **Python for Data Science**
+- **Data Analysis with Python**
+- **Data Visualization with Python**
 
 The code samples have been tested using Python 3.7.3
 
 ### Some important Python libraries
-> - NumPy
-> - SciPy
-> - Pandas
-> - Jupyter
-> - Matplotlib
-> - Seaborn
+- NumPy
+- SciPy
+- Pandas
+- Jupyter
+- Matplotlib
+- Seaborn
 
 
 ## Installation
