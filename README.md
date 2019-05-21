@@ -3,7 +3,7 @@
 This repository contains the code for Applied Data Science with Python, by IBM CognitiveClass. 
 
 ## About the course
-This is a three-part course of the Applied Data Science with Python learning path. The course focuses on getting hands-on experience using the Python for Data Science. The repository constitutes the following three courses in their respective directories.
+This is a three-part course of the Applied Data Science with Python learning path. The course focuses on getting hands-on experience using the Python for Data Science. The repository constitutes Jupyter `Notebooks` for the following three courses in their respective directories.
 
 - **Python for Data Science**
 - **Data Analysis with Python**
@@ -15,9 +15,9 @@ The code samples have been tested using Python 3.7.3
 - NumPy
 - SciPy
 - Pandas
-- Jupyter
 - Matplotlib
 - Seaborn
+- Folium
 - Scikit-learn
 
 
